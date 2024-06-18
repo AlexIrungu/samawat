@@ -1,7 +1,7 @@
 
 
 .navbar {
-    background-color: #16babd; 
+    background-color: #1649ff; 
     padding: 10px 20px;
   }
   
@@ -27,8 +27,19 @@
   
   .navbar-logo {
     width: auto; 
-    height: 64px; 
+    height: 64px;
+    animation: zoomInOut 2s infinite alternate; /* Apply zoom in and out animation */
   }
+  
+  @keyframes zoomInOut {
+    0% {
+      transform: scale(1); /* Initial scale */
+    }
+    100% {
+      transform: scale(1.1); /* Scale to 1.1 */
+    }
+  }
+  
   
   .navbar-list {
     list-style-type: none;

@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  /* display: none; Hide by default */
+}
+
+.back-to-top:hover {
+  background-color: #555;
+}
+
