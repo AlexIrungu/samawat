@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/samawat/static/css/main.3937a153.css",
-    "main.js": "/samawat/static/js/main.da7b73e6.js",
+    "main.css": "/samawat/static/css/main.774a2101.css",
+    "main.js": "/samawat/static/js/main.69aee8b3.js",
     "static/js/453.94f4cbd8.chunk.js": "/samawat/static/js/453.94f4cbd8.chunk.js",
     "static/media/Toxic.mp3": "/samawat/static/media/Toxic.f01d939af42cf6d612ef.mp3",
+    "static/media/kila wiki.mp3": "/samawat/static/media/kila wiki.383921aa6de545ac98fd.mp3",
+    "static/media/Couple Mill.mp3": "/samawat/static/media/Couple Mill.76296817709a3a626506.mp3",
+    "static/media/Chini Ya Wo.mp3": "/samawat/static/media/Chini Ya Wo.83964f9befe022e8c05f.mp3",
+    "static/media/couple.png": "/samawat/static/media/couple.50c7eb0aa5f247c36f24.png",
+    "static/media/kilawiki.png": "/samawat/static/media/kilawiki.c16259a82877f3b8fd84.png",
+    "static/media/chiniyawo.png": "/samawat/static/media/chiniyawo.7252cd7ae29a07c01355.png",
     "static/media/hero.jpeg": "/samawat/static/media/hero.16642d06addd65c7eab5.jpeg",
     "static/media/record.png": "/samawat/static/media/record.4ac888bad13d99645935.png",
     "static/media/2.png": "/samawat/static/media/2.4abc0bae5fe472d2179d.png",
     "static/media/1.png": "/samawat/static/media/1.bde4dbb784fe6b647ee1.png",
     "index.html": "/samawat/index.html",
-    "main.3937a153.css.map": "/samawat/static/css/main.3937a153.css.map",
-    "main.da7b73e6.js.map": "/samawat/static/js/main.da7b73e6.js.map",
+    "main.774a2101.css.map": "/samawat/static/css/main.774a2101.css.map",
+    "main.69aee8b3.js.map": "/samawat/static/js/main.69aee8b3.js.map",
     "453.94f4cbd8.chunk.js.map": "/samawat/static/js/453.94f4cbd8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3937a153.css",
-    "static/js/main.da7b73e6.js"
+    "static/css/main.774a2101.css",
+    "static/js/main.69aee8b3.js"
   ]
 }
