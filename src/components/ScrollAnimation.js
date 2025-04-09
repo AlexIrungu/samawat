@@ -4,7 +4,6 @@ import Home from './Home';
 import About from './About';
 import Contact from './Contact';
 import Analytics from './Analytics';
-import './ScrollAnimation.css';
 
 const ScrollAnimation = () => {
   const [isVisible, setIsVisible] = useState(false);
