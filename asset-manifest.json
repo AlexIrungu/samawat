@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/samawat/static/css/main.3937a153.css",
-    "main.js": "/samawat/static/js/main.038352e4.js",
+    "main.js": "/samawat/static/js/main.da7b73e6.js",
     "static/js/453.94f4cbd8.chunk.js": "/samawat/static/js/453.94f4cbd8.chunk.js",
     "static/media/Toxic.mp3": "/samawat/static/media/Toxic.f01d939af42cf6d612ef.mp3",
     "static/media/hero.jpeg": "/samawat/static/media/hero.16642d06addd65c7eab5.jpeg",
@@ -10,11 +10,11 @@
     "static/media/1.png": "/samawat/static/media/1.bde4dbb784fe6b647ee1.png",
     "index.html": "/samawat/index.html",
     "main.3937a153.css.map": "/samawat/static/css/main.3937a153.css.map",
-    "main.038352e4.js.map": "/samawat/static/js/main.038352e4.js.map",
+    "main.da7b73e6.js.map": "/samawat/static/js/main.da7b73e6.js.map",
     "453.94f4cbd8.chunk.js.map": "/samawat/static/js/453.94f4cbd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3937a153.css",
-    "static/js/main.038352e4.js"
+    "static/js/main.da7b73e6.js"
   ]
 }
